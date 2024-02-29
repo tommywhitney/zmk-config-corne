@@ -1,7 +1,7 @@
 Keymap for 36 key corne.
 
 default layer
-<img width="1080" alt="image" src="https://github.com/tommywhitney/zmk-config-corne/assets/46704616/bdd59a88-c5b1-430a-b237-9ad84288ca48">
+<img width="1080" alt="image" src="https://github.com/tommywhitney/zmk-config-corne/assets/46704616/afb6f1d0-4550-4f1e-ba0d-216b292b592d">
 
 number layer
 <img width="1080" alt="image" src="https://github.com/tommywhitney/zmk-config-corne/assets/46704616/3a556fcc-f1a8-476f-9539-beac1774e398">
