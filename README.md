@@ -3,10 +3,13 @@ Keymap for 36 key corne.
 Built using https://nickcoutsos.github.io/keymap-editor/
 
 default layer
-<img width="1080" alt="image" src="https://github.com/tommywhitney/zmk-config-corne/assets/46704616/16fdbb81-e654-4695-86a4-d2cddc55244c">
+![image](https://github.com/user-attachments/assets/d147e9e6-e065-4d17-806b-9253cd295f40)
+
 
 number layer
-<img width="1080" alt="image" src="https://github.com/tommywhitney/zmk-config-corne/assets/46704616/3a556fcc-f1a8-476f-9539-beac1774e398">
+![image](https://github.com/user-attachments/assets/91aea5ca-ab37-42d6-b078-c2050611a7c1)
+
 
 symbol layer
-<img width="1080" alt="image" src="https://github.com/tommywhitney/zmk-config-corne/assets/46704616/5597009e-05eb-434a-be0a-dbb0a73a5d84">
+![image](https://github.com/user-attachments/assets/ae8e8f86-92a2-44bd-8009-63bfa7289e5f)
+
